@@ -11,8 +11,8 @@ import MobileNavbar from './components/MobileNavbar';
 import HomePage from './components/Home';
 import MobileHomePage from './components/MobileHomePage'; // Halaman khusus mobile
 import CategoryPage from './components/category';
-import About from './components/About';
-import CheckoutPage from './components/checkout';
+import About from './components/about';
+import CheckoutPage from './components/Checkout';
 import AddProduct from './components/UploadAdmin';
 import AdminProductPage from './components/AdminListProduct';
 import EditProduct from './components/EditProdukAdmin';
@@ -21,7 +21,7 @@ import Wishlist from './components/wishlist';
 import Notification from './components/notification';// Import Wishlist
 import Profile from './components/profileuser';
 import RegisterPage from './components/registerpage';
-import LoginPage from './components/loginpage';
+import LoginPage from './components/LoginPage';
 import Lapormasalah from './components/laporkanmasalah';
 import AdminDashboard from "./components/AdminPage";
 import Profileuser from "./components/profileuser";
